@@ -1,5 +1,11 @@
 This is me
 ============
+Introduction
+------------
+##Name: Seong won Jeon
+##Status: Hanyang University ERICA Campus, Economics & Computer Science, 3rd Grade
+##Student Number: 2016015350
+
 <!--
 **seacom0601/seacom0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
