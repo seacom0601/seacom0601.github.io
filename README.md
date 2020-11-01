@@ -8,7 +8,7 @@ Student Number: 2016015350
 
 Current Study   
 -------------   
-This semester, I'm taking 8 classes. And 2 of them are computer science subject: Fundametals of Open Source Software and Crptography. I'm a very beginner of these subjects but I'll do my best.   
+This semester, I'm taking 8 classes. And 3 of them are computer science subject: Fundametals of Open Source Software, Database and Cryptography. I'm a very beginner of these subjects but I'll do my best.   
 
 Planning to do   
 ---------------   
